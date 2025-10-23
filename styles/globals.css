@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{ --bg:#0f0f0f; --fg:#F4F2EF; --muted:#B6B3AD; --card:#171717; --accent:#8A8A7A; }
+html, body { height: 100%; background: var(--bg); color: var(--fg); }
