@@ -1,0 +1,28 @@
+[
+  {
+    "id": "bob-classico",
+    "name": "Bob Clásico",
+    "group": "clásico",
+    "keywords": ["bob", "clásico", "elegancia"],
+    "short": "Un corte atemporal con líneas limpias y elegantes.",
+    "images": [
+      "/auréthica/bob-classico/a.jpg",
+      "/auréthica/bob-classico/b.jpg",
+      "/auréthica/bob-classico/c.jpg",
+      "/auréthica/bob-classico/d.jpg"
+    ]
+  },
+  {
+    "id": "rizado-natural",
+    "name": "Rizado Natural",
+    "group": "natural",
+    "keywords": ["rizado", "natural", "volumen"],
+    "short": "Celebramos la textura natural con rizos definidos y libres.",
+    "images": [
+      "/auréthica/rizado-natural/a.jpg",
+      "/auréthica/rizado-natural/b.jpg",
+      "/auréthica/rizado-natural/c.jpg",
+      "/auréthica/rizado-natural/d.jpg"
+    ]
+  }
+]
