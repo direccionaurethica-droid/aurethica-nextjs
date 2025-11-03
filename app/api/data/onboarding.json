@@ -1,0 +1,20 @@
+[
+  {
+    "id": "new-look",
+    "question": "¿Cuál es tu principal motivación al cambiar de look?",
+    "options": [
+      "Explorar un estilo nuevo",
+      "Definir mi propio estilo",
+      "Salir de la rutina"
+    ]
+  },
+  {
+    "id": "experiment-frequency",
+    "question": "¿Con qué frecuencia experimentas con tu peinado?",
+    "options": [
+      "Casi nunca",
+      "Ocasionalmente",
+      "Frecuentemente"
+    ]
+  }
+]
