@@ -1,0 +1,16 @@
+{
+  "bob-classico": {
+    "tips": [
+      "Acude a recortar cada 6-8 semanas para mantener la forma.",
+      "Aplica productos hidratantes para prevenir la sequedad.",
+      "Protege el cabello del calor usando spray térmico."
+    ]
+  },
+  "rizado-natural": {
+    "tips": [
+      "Usa productos específicos para rizos que definan sin encrespamiento.",
+      "Evita peinar en seco; desenreda en la ducha con acondicionador.",
+      "Duerme con fundas de satén para reducir el frizz."
+    ]
+  }
+}
